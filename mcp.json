@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "chainmcp": {
+      "type": "stdio",
+      "command": "D:\\GitHub\\chainmcp\\chainmcp\\bin\\Debug\\net9.0\\chainmcp.exe"
+    }
+  }
+}
