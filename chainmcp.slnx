@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/">
-    <File Path="mcp.json" />
+    <File Path=".mcp.json" />
     <File Path="README.md" />
   </Folder>
   <Project Path="chainmcp/chainmcp.csproj" />
